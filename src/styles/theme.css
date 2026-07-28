@@ -1,0 +1,30 @@
+@theme {
+
+  /* ===== Brand Colors ===== */
+
+  --color-primary: #0057D9;
+  --color-primary-dark: #003F9E;
+
+  --color-secondary: #0F172A;
+
+  --color-accent: #22C55E;
+
+  /* ===== Background ===== */
+
+  --color-background: #FFFFFF;
+
+  --color-surface: #F8FAFC;
+
+  /* ===== Text ===== */
+
+  --color-text-primary: #1E293B;
+
+  --color-text-secondary: #64748B;
+
+  --color-text-light: #FFFFFF;
+
+  /* ===== Border ===== */
+
+  --color-border: #E2E8F0;
+
+}
